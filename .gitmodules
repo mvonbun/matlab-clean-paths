@@ -1,3 +1,6 @@
 [submodule "python-getch"]
 	path = python-getch
 	url = git@github.com:mvonbun/python-getch.git
+[submodule "python-print-fancy"]
+	path = python-print-fancy
+	url = git@github.com:mvonbun/python-print-fancy.git
